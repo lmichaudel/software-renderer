@@ -1,0 +1,19 @@
+[
+  {
+    "arguments": [
+      "/usr/bin/g++",
+      "-c",
+      "-std=c++23",
+      "-I/opt/homebrew/include",
+      "-I/opt/homebrew/include/SDL2",
+      "-D_THREAD_SAFE",
+      "-g",
+      "-o",
+      "main.a",
+      "main.cpp"
+    ],
+    "directory": "/Users/lucas/1a/s5-cpp/tp-bonus",
+    "file": "/Users/lucas/1a/s5-cpp/tp-bonus/main.cpp",
+    "output": "/Users/lucas/1a/s5-cpp/tp-bonus/main.a"
+  }
+]
